@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[oc]
+*.egg-info/
+build/
+dist/
+wheels/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained models (~2.7 GB, files up to ~294 MB) — hosted on Hugging Face, not in git
+model/
+
+# NOTE: the dataset (data/sequence/) is tracked in git by choice.
+
+# OS
+.DS_Store
+Thumbs.db

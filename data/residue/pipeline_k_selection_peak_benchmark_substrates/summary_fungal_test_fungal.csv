@@ -1,0 +1,2 @@
+train_kingdom,test_kingdom,method,k_criterion,best_k,cv_acc,benchmark_acc_mean,benchmark_acc_std,n_benchmark_total,n_benchmark_known,top_positions
+fungal,fungal,ig,peak,14,0.42326261389908876,0.5692307692307692,0.0,130,130,110 116 381 323 383 337 233 93 130 214 378 301 397 344

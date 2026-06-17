@@ -1,0 +1,15 @@
+residue_set	kingdom	n_positions	train_acc	benchmark_acc	benchmark_hits	benchmark_known	benchmark_total
+8Å	bacterial	34	0.9215	0.8667	130	150	152
+Stachelhaus	bacterial	9	0.8848	0.8533	128	150	152
+IG15B	bacterial	15	0.9103	0.8667	130	150	152
+IG15B ∪ 8Å	bacterial	38	0.922	0.86	129	150	152
+IG15B ∩ 8Å	bacterial	11	0.9108	0.8667	130	150	152
+IG15B ∪ Stachelhaus	bacterial	18	0.9152	0.8867	133	150	152
+IG15B ∩ Stachelhaus	bacterial	6	0.874	0.82	123	150	152
+8Å	fungal	34	0.9287	0.6846	89	130	130
+Stachelhaus	fungal	9	0.9151	0.6615	86	130	130
+IG13F	fungal	13	0.9198	0.6923	90	130	130
+IG13F ∪ 8Å	fungal	44	0.9302	0.6692	87	130	130
+IG13F ∩ 8Å	fungal	3	0.4613	0.2846	37	130	130
+IG13F ∪ Stachelhaus	fungal	21	0.9262	0.6615	86	130	130
+IG13F ∩ Stachelhaus	fungal	1	0.109	0.0692	9	130	130

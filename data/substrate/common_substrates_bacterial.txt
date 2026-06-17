@@ -1,0 +1,64 @@
+2,3-diaminobutyric acid
+2,3-dihydroxybenzoic acid
+2,4-diaminobutyric acid
+2-amino-3-methylpentanoic acid
+2-aminoadipic acid
+2-hydroxy-3-methylpentanoic acid
+2-methylserine
+3,5-dihydroxyphenylglycine
+3,6-diaminohexanoic acid
+3-aminoalanine
+3-hydroxy-o,5-dimethyl-l-tyrosine
+3-hydroxyasparagine
+3-hydroxyaspartic acid
+3-hydroxyleucine
+3-methyl-2-oxobutanoic acid
+3-methyl-d-aspartic acid
+4-aminobenzoic acid
+4-hydroxyphenylglycine
+4-methylproline
+6-chloro-l-tryptophan
+alanine
+anthranilic acid
+arginine
+asparagine
+aspartic acid
+beta-hydroxytyrosine
+cysteine
+d-alanine
+d-graminine
+dehydroproline acrylamide*
+dl-phenylserine
+fatty acid
+glutamic acid
+glutamine
+glycine
+hydroxyornithine
+l-histidine
+l-homoserine
+l-homotyrosine
+l-lysine
+l-m-tyrosine
+l-methionine
+l-phenylalanine
+l-threonine
+leucine
+n(6)-hydroxy-l-lysine
+n-methyl-l-aspartic acid
+n5-acetyl-n5-hydroxy-l-ornithine
+n5-formyl-n5-hydroxy-l-ornithine
+n5-hydroxy-l-ornithine
+ornithine
+phenylpyruvic acid
+pipecolic acid
+piperazic acid
+proline
+pyruvic acid
+salicylic acid
+serine
+threo-3-methyl-l-aspartic acid
+tryptophan
+tyrosine
+valine
+α-aminobutyric acid
+β-alanine

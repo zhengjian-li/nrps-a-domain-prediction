@@ -1,0 +1,23 @@
+isovaline
+cysteine
+l-phenylalanine
+d-phenylalanine
+β-alanine
+2-hydroxy-4-methylvaleric acid
+serine
+2-amino-3-methylpentanoic acid
+α-aminobutyric acid
+asparagine
+alanine
+glycine
+glutamine
+tyrosine
+l-threonine
+valine
+kynurenine
+4-hydroxyproline
+leucine
+tryptophan
+proline
+anthranilic acid
+2-aminoisobutyric acid

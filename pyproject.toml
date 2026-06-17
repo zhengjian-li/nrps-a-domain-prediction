@@ -1,0 +1,18 @@
+[project]
+name = "nrps-a-domain-prediction"
+version = "0.1.0"
+description = "Dataset construction and model training for NRPS A-domain substrate specificity prediction"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=2.3.3",
+    "numpy>=1.26",
+    "scikit-learn>=1.6.1",
+    "joblib>=1.5.3",
+    "pyyaml>=6.0.3",
+    "tqdm>=4.67.3",
+    "matplotlib>=3.9.4",
+    "plotnine>=0.13.6",
+    "seaborn>=0.13.2",
+    "huggingface-hub>=0.25",
+]

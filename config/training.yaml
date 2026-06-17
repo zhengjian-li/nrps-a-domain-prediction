@@ -1,0 +1,101 @@
+models:
+
+  bacterial:
+    train: bacterial
+    residues: IG25B
+    test: bacterial
+    included_substrate: data/substrate/included_substrates_bacterial.txt
+    n_estimators: 1000
+    min_samples_leaf: 1
+    max_features: 0.4
+    seed: 0
+
+  fungal:
+    train: all
+    residues: IG16F
+    test: fungal
+    included_substrate: data/substrate/included_substrates_fungal.txt
+    n_estimators: 1000
+    min_samples_leaf: 1
+    max_features: sqrt
+    seed: 44
+
+  all_stachelhaus:
+    train: all
+    residues: stachelhaus
+    test: all
+    included_substrate: data/substrate/substrates.txt
+    n_estimators: 1000
+    min_samples_leaf: 1
+    max_features: sqrt
+    seed: 42
+
+  all_8angstrom:
+    train: all
+    residues: 8angstrom
+    test: all
+    included_substrate: data/substrate/substrates.txt
+    n_estimators: 1000
+    min_samples_leaf: 1
+    max_features: sqrt
+    seed: 42
+
+  bacterial_stachelhaus:
+    train: bacterial
+    residues: stachelhaus
+    test: bacterial
+    included_substrate: data/substrate/included_substrates_bacterial.txt
+    n_estimators: 1000
+    min_samples_leaf: 1
+    max_features: sqrt
+    seed: 42
+
+  fungal_stachelhaus:
+    train: all
+    residues: stachelhaus
+    test: fungal
+    included_substrate: data/substrate/included_substrates_fungal.txt
+    n_estimators: 1000
+    min_samples_leaf: 1
+    max_features: sqrt
+    seed: 42
+
+  bacterial_8angstrom:
+    train: bacterial
+    residues: 8angstrom
+    test: bacterial
+    included_substrate: data/substrate/included_substrates_bacterial.txt
+    n_estimators: 1000
+    min_samples_leaf: 1
+    max_features: sqrt
+    seed: 42
+
+  fungal_8angstrom:
+    train: all
+    residues: 8angstrom
+    test: fungal
+    included_substrate: data/substrate/included_substrates_fungal.txt
+    n_estimators: 1000
+    min_samples_leaf: 1
+    max_features: sqrt
+    seed: 42
+
+  bacterial_ig11b:
+    train: bacterial
+    residues: ig11b
+    test: bacterial
+    included_substrate: data/substrate/included_substrates_bacterial.txt
+    n_estimators: 500
+    min_samples_leaf: 1
+    max_features: 0.4
+    seed: 5
+
+  fungal_mi16f:
+    train: all
+    residues: mi16f
+    test: fungal
+    included_substrate: data/substrate/included_substrates_fungal.txt
+    n_estimators: 500
+    min_samples_leaf: 1
+    max_features: log2
+    seed: 22

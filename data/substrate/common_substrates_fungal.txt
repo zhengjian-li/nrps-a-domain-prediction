@@ -1,0 +1,34 @@
+2-amino-3-methylpentanoic acid
+2-amino-fatty acid
+2-aminoadipic acid
+2-aminoisobutyric acid
+2-hydroxy-3-methylbutyric acid
+3-hydroxy-4-methylproline
+3-hydroxy-l-homotyrosine
+4-hydroxyphenylpyruvic acid
+4-hydroxyproline
+alanine
+anthranilic acid
+aspartic acid
+benzoic acid
+cysteine
+d-alanine
+glutamine
+glycine
+hydroxyornithine
+isovaline
+l-homoserine
+l-phenylalanine
+l-threonine
+leucine
+n5-acetyl-n5-hydroxy-l-ornithine
+n5-trans-anhydromevalonyl-n5-hydroxyornithine
+ochratoxin b
+ornithine
+pipecolic acid
+proline
+serine
+tryptophan
+tyrosine
+valine
+β-alanine
